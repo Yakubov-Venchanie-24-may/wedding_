@@ -935,7 +935,7 @@ section {
 
 .Details-line {
     font-family: 'Montserrat Thin Italic', sans-serif;
-    font-size: 1rem;
+    font-size: 1.5rem;
     letter-spacing: 1px;
     margin: 10px 0;
     line-height: 1.4;
@@ -1207,7 +1207,7 @@ section {
     }
 
     .Details-line {
-        font-size: 1.1rem;
+        font-size: 1.3rem;
         /* Уменьшаем текст в Details */
         letter-spacing: 0.8px;
     }
@@ -1233,7 +1233,7 @@ section {
 
     /* Финальная секция */
     .goodbye-title {
-        font-size: 4rem;
+        font-size: 5rem;
         /* Уменьшаем "До скорой встречи" */
     }
 }
@@ -1537,7 +1537,7 @@ section {
     }
 
     .Details-line {
-        font-size: 0.9rem;
+        font-size: 1.1rem;
         /* Уменьшаем текст в Details */
         letter-spacing: 0.5px;
         max-width: 95%;
@@ -1557,7 +1557,7 @@ section {
 
     /* Финальная секция */
     .goodbye-title {
-        font-size: 3rem;
+        font-size: 5rem;
         /* Уменьшаем "До скорой встречи" */
     }
 }
